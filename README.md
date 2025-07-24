@@ -8,3 +8,5 @@
 * Is deceleration of a certain % at a certain mark associated with a specific time? 
 * What is more significant in the 200, speed out the blocks or holding off deceleration (speed endurance)? 
 * What is more significant in the 100, speed out of the blocks or holding off deceleration (speed endurance)
+
+=IF(N(E6)>29,CONCATENATE(INDIRECT(ADDRESS(ROW()-4, COLUMN()-2, 4)),"_",INDIRECT(ADDRESS(ROW()-4, COLUMN()-1, 4)),"_",INDIRECT(ADDRESS(ROW(), COLUMN()+1, 4))),"NULL")
