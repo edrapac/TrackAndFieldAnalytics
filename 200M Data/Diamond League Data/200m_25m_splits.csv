@@ -1,0 +1,71 @@
+Date,Athlete,Nationality,Result,25m,50m,75m,100m,125m,150m,175m,Finish,SourceFile
+2022-05-13,Noah Lyles,USA,19.72,3.5,5.8,8.1,10.3,11.8,14.9,17.2,19.72,Race_analysis_20.pdf
+2022-05-13,Fred Kerley,USA,19.75,3.4,5.8,8.0,10.3,11.9,15.0,17.3,19.75,Race_analysis_20.pdf
+2022-05-13,Jereem Richards,TTO,20.15,3.6,5.9,8.2,10.5,12.1,15.2,17.6,20.15,Race_analysis_20.pdf
+2022-05-13,Aaron Brown,CAN,20.18,3.7,5.8,8.1,10.4,12.8,15.1,17.6,20.18,Race_analysis_20.pdf
+2022-05-13,Filippo Tortu,ITA,20.41,3.5,5.8,10.7,12.9,15.4,17.8,18.1,20.41,Race_analysis_20.pdf
+2022-06-18,Alexander Ogando,DOM,20.03,3.5,5.8,8.1,10.4,12.7,15.0,17.4,20.03,Race_analysis_21.pdf
+2022-06-18,Mouhamadou Fall,FRA,20.26,3.4,5.7,8.0,10.3,12.7,15.1,17.5,20.26,Race_analysis_21.pdf
+2022-06-18,Andre Degrasse,CAN,20.38,3.5,5.8,8.1,10.5,12.8,15.2,17.7,20.38,Race_analysis_21.pdf
+2022-06-18,Amaury Golitin,FRA,20.52,3.4,5.7,7.9,10.2,12.6,15.1,17.7,20.52,Race_analysis_21.pdf
+2022-06-18,DESALU Eseosa Fostine,ITA,20.52,3.6,5.9,8.2,10.5,12.9,15.3,17.8,20.52,Race_analysis_21.pdf
+2022-06-18,Yancarlos Martinez,DOM,20.61,3.5,6.0,8.3,10.7,13.1,15.5,18.0,20.61,Race_analysis_21.pdf
+2022-06-18,Benjamin Azamati,GHA,20.77,3.4,5.7,8.0,10.3,12.8,15.2,17.8,20.77,Race_analysis_21.pdf
+2022-08-10,LYLESNoah,USA,19.46,3.5,5.7,7.9,10.1,12.4,14.7,17.0,19.46,Race_analysis_22.pdf
+2022-08-10,Erriyon Knighton,USA,19.84,3.5,5.7,7.9,10.2,12.5,14.8,17.2,19.84,Race_analysis_22.pdf
+2022-08-10,Michael Norman,USA,19.95,3.4,5.7,7.9,10.2,12.5,14.9,17.4,19.95,Race_analysis_22.pdf
+2022-08-10,Alexander Ogando,DOM,20.02,3.5,5.9,8.1,10.3,12.6,15.0,17.4,20.02,Race_analysis_22.pdf
+2022-08-10,Aaron Brown,CAN,20.23,3.4,5.7,8.0,10.3,12.6,15.1,17.5,20.23,Race_analysis_22.pdf
+2022-08-10,Josephus Lyles,USA,20.26,3.5,5.7,8.0,10.3,12.7,15.1,17.6,20.26,Race_analysis_22.pdf
+2022-08-10,Joseph Fahnbulleh,LBR,20.46,3.7,6.0,8.3,10.6,13.0,15.4,17.8,20.46,Race_analysis_22.pdf
+2022-08-10,ZEZE Méba Mickaél,FRA,20.78,3.4,5.7,8.1,10.4,12.9,15.4,18.0,20.78,Race_analysis_22.pdf
+2022-08-26,Noah Lyles,USA,19.56,3.5,5.7,7.9,10.1,12.4,14.7,17.0,19.56,Race_analysis_23.pdf
+2022-08-26,Jereem Richards,TTO,19.95,3.4,5.7,8.0,10.2,12.6,14.9,17.3,19.95,Race_analysis_23.pdf
+2022-08-26,Alexander Ogando,DOM,20.09,3.5,5.8,8.0,10.3,12.7,15.0,17.4,20.09,Race_analysis_23.pdf
+2022-08-26,Andrew Hudson,JAM,20.09,3.4,5.7,8.0,10.3,12.6,15.0,17.4,20.09,Race_analysis_23.pdf
+2022-08-26,Erriyon Knighton,USA,20.13,3.4,5.7,8.0,10.3,12.6,15.0,17.4,20.13,Race_analysis_23.pdf
+2022-08-26,Joseph Fahnbulleh,LBR,20.33,3.6,5.9,8.1,10.5,12.9,15.3,17.7,20.33,Race_analysis_23.pdf
+2022-08-26,Charles Dobson,GBR,20.34,3.5,5.9,8.2,10.5,12.9,15.3,17.7,20.34,Race_analysis_23.pdf
+2022-09-02,Erriyon Knighton,USA,20.07,3.4,5.7,7.9,10.2,12.6,14.9,17.4,20.07,Race_analysis_24.pdf
+2022-09-02,Alexander Ogando,DOM,20.18,3.5,5.8,8.1,10.3,12.6,15.0,17.5,20.18,Race_analysis_24.pdf
+2022-09-02,Aaron Brown,CAN,20.22,3.4,5.8,8.1,10.3,12.7,15.1,17.6,20.22,Race_analysis_24.pdf
+2022-09-02,Reynier Mena,CUB,20.38,3.4,5.7,8.0,10.3,12.7,15.1,17.6,20.38,Race_analysis_24.pdf
+2022-09-02,Joseph Fahnbulleh,LBR,20.6,3.6,5.9,8.2,10.5,13.0,15.4,17.9,20.6,Race_analysis_24.pdf
+2022-09-02,Robin Vanderbemden,BEL,21.02,3.5,5.9,8.2,10.5,13.0,15.5,18.2,21.02,Race_analysis_24.pdf
+2022-09-02,DESALU Eseosa Fostine,ITA,21.09,3.6,5.9,8.2,10.6,13.0,15.5,18.2,21.09,Race_analysis_24.pdf
+2022-09-08,Aaron Brown,CAN,20.02,3.4,5.8,8.0,10.3,12.6,15.0,17.4,20.02,Race_analysis_25.pdf
+2022-09-08,Alexander Ogando,DOM,20.02,3.5,5.9,8.1,10.4,12.7,15.0,17.4,20.02,Race_analysis_25.pdf
+2022-09-08,Erriyon Knighton,USA,20.2,3.5,5.8,8.0,10.3,12.6,15.0,17.5,20.2,Race_analysis_25.pdf
+2022-09-08,Kenneth Bednarek,USA,20.2,3.5,5.8,8.0,10.2,12.6,15.0,17.4,20.2,Race_analysis_25.pdf
+2022-09-08,Andre Degrasse,CAN,20.43,3.6,5.9,8.2,10.5,12.9,15.3,17.8,20.43,Race_analysis_25.pdf
+2022-09-08,Jereem Richards,TTO,20.56,3.5,5.8,8.1,10.4,12.8,15.2,17.8,20.56,Race_analysis_25.pdf
+2022-09-08,DESALU Eseosa Fostine,ITA,20.79,3.6,5.9,8.2,10.5,12.9,15.4,18.0,20.79,Race_analysis_25.pdf
+2021-05-23,Kenneth Bednarek,USA,20.33,4.0,6.3,8.6,10.9,13.3,15.7,18.2,20.33,Race_analysis_26.pdf
+2021-05-23,Aaron Brown,CAN,20.79,3.9,6.3,8.6,11.0,13.4,16.0,18.5,20.79,Race_analysis_26.pdf
+2021-05-23,de GRASSE André,CAN,20.85,4.0,6.4,8.8,11.2,13.6,16.1,18.6,20.85,Race_analysis_26.pdf
+2021-05-23,Vernon Norwood,USA,20.95,4.0,6.4,8.7,11.4,13.6,16.1,18.7,20.95,Race_analysis_26.pdf
+2021-05-23,Emmanuel Matadi,LBR,21.13,4.0,6.4,8.7,11.4,13.6,16.1,18.8,21.13,Race_analysis_26.pdf
+2021-05-23,Adam Gemili,GBR,21.18,4.0,6.4,8.7,11.4,13.5,16.1,18.8,21.18,Race_analysis_26.pdf
+2021-05-23,Julian Forte,JAM,21.47,4.0,6.4,8.8,11.2,13.8,16.4,19.1,21.47,Race_analysis_26.pdf
+2021-05-28,Kenneth Bednarek,USA,19.88,3.5,6.0,8.0,10.2,12.5,14.9,17.3,19.88,Race_analysis_27.pdf
+2021-05-28,de GRASSE André,CAN,19.89,3.5,5.8,8.1,10.4,12.7,15.0,17.4,19.89,Race_analysis_27.pdf
+2021-05-28,Aaron Brown,CAN,20.25,3.5,5.8,8.1,10.4,12.8,15.1,17.6,20.25,Race_analysis_27.pdf
+2021-05-28,Emmanuel Matadi,LBR,20.45,3.5,5.9,8.2,10.5,12.9,15.3,17.8,20.45,Race_analysis_27.pdf
+2021-05-28,Justin Gatlin,USA,20.49,3.5,6.0,8.2,10.6,12.9,15.3,17.8,20.49,Race_analysis_27.pdf
+2021-05-28,Arthur Cisse,CIV,20.91,3.5,5.9,8.2,10.5,12.9,15.4,18.1,20.91,Race_analysis_27.pdf
+2021-05-28,Ramil Guliyev,TUR,21.09,3.6,6.0,8.3,10.7,13.1,15.5,18.1,21.09,Race_analysis_27.pdf
+2021-07-01,de GRASSE André,CAN,20.09,3.6,5.8,8.1,10.4,12.8,15.1,17.6,20.09,Race_analysis_28.pdf
+2021-07-01,Aaron Brown,CAN,20.38,3.5,5.9,8.1,10.5,12.8,15.2,17.8,20.38,Race_analysis_28.pdf
+2021-07-01,Isaac Makwala,BOT,20.61,3.6,6.0,8.2,10.6,13.0,15.4,18.0,20.61,Race_analysis_28.pdf
+2021-07-01,DESALU Eseosa Fostine,ITA,20.71,3.6,6.0,8.2,10.5,12.9,15.4,18.0,20.71,Race_analysis_28.pdf
+2021-07-01,Vernon Norwood,USA,20.74,3.7,6.0,8.3,10.7,13.1,15.6,18.1,20.74,Race_analysis_28.pdf
+2021-07-01,Mouhamadou Fall,FRA,20.92,3.6,5.9,8.3,10.7,13.1,15.6,18.2,20.92,Race_analysis_28.pdf
+2021-07-01,Alex Wilson,SUI,20.98,3.7,6.1,8.4,10.8,13.2,15.7,18.2,20.98,Race_analysis_28.pdf
+2021-07-01,JOHANSEN Mathias Hove,NOR,21.36,3.6,6.0,8.4,10.8,13.3,15.8,18.5,21.36,Race_analysis_28.pdf
+2021-08-21,Noah Lyles,USA,19.52,3.6,5.9,8.1,10.3,12.6,14.8,17.1,19.52,Race_analysis_29.pdf
+2021-08-21,Kenneth Bednarek,USA,19.8,3.6,5.9,8.1,10.4,12.7,15.0,17.3,19.8,Race_analysis_29.pdf
+2021-08-21,Josephus Lyles,USA,20.03,3.6,5.9,8.2,10.5,12.8,15.1,17.5,20.03,Race_analysis_29.pdf
+2021-08-21,Aaron Brown,CAN,20.12,3.5,5.9,8.2,10.6,12.9,15.3,17.7,20.12,Race_analysis_29.pdf
+2021-08-21,Rai Benjamin,USA,20.16,3.5,5.8,8.1,10.5,12.8,15.2,17.7,20.16,Race_analysis_29.pdf
+2021-08-21,Jerome Blake,CAN,20.2,3.6,6.0,8.3,10.7,13.0,15.4,17.7,20.2,Race_analysis_29.pdf
+2021-08-21,Vernon Norwood,USA,20.36,3.6,6.0,8.4,10.7,13.1,15.4,17.9,20.36,Race_analysis_29.pdf
